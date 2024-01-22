@@ -1,0 +1,15 @@
+asposestorage==1.0.2
+db==0.1.1
+fastapi==0.100.1
+SQLAlchemy==2.0.12
+uvicorn==0.23.2
+pydantic==1.10.7
+python-dotenv==1.0.0
+typing==3.7.4.3
+DateTime==5.1
+mysql-connector-python==8.0.33
+logger==1.4
+requests==2.31.0
+python-decouple==3.8
+pandas==2.0.1
+openpyxl==3.1.2
